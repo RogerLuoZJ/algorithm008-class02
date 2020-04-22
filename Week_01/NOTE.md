@@ -1,7 +1,7 @@
 学习笔记
 
 ### MoveZeros
-这个题一开始使用了一个比较纯的方法
+这个题一开始使用了一个比较蠢的方法
     
     public void moveZeroes(int[] nums) {
         int zeroPoint = -1;
